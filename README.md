@@ -1,2 +1,7 @@
-# cpp20-market-data-pipeline
-Using ranges, views, concepts, std::expected-style error handling, chrono, string_view, span, format, and a thread-safe queue
+What it does (pipeline, parsing, aggregation)
+
+Why C++20 features (concepts, string_view, from_chars, format, atomics)
+
+Build instructions
+
+Next improvements (SIMD parsing, batch ingestion, proper allocator, real feed handler)
